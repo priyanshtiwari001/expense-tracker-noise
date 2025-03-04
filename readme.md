@@ -1,5 +1,10 @@
 # Expense Tracker
 
+
+https://github.com/user-attachments/assets/e0221811-c090-446a-97f1-366a848ad6a6
+
+
+
 ## Requirements
 
 Users should be able to:
